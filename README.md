@@ -15,7 +15,7 @@ a więc bariery energii swobodnej obniżone są o czynnik ![gamma](https://latex
 
 Wygenerowane w symulacji powierzchnie energii swobodnej w kolejnych momentach trwania symulacji przedstawiono na wykresie 1:
 ![free_energy_metadynamics.png](https://raw.githubusercontent.com/adamzny/0800-fizobl-metadynamics/main/free_energy_metadynamics.png)
-Jak widać, pod koniec symulacji krzywe są coraz bliżej siebie, co świadczy o jej zbieżności. Z wykresu można odczytać dwa  lokalne minima energii swobodnej - płytsze dla odległości ok. 0.26 nm odpowiadające stanowi związanemu NaCl i nieco głębsze oraz znacznie szersze odpowiadające stanowi zdysocjowanemu. Minima rozdziela bariera potenjalna o wysokości kilku kT.
+gdzie krzywe przesunięto tak, by minimum energii swobodnej miało wartość 0. Jak widać, pod koniec symulacji krzywe są coraz bliżej siebie, co świadczy o jej zbieżności. Z wykresu można odczytać dwa lokalne minima energii swobodnej - płytsze dla odległości ok. 0.26 nm odpowiadające stanowi związanemu NaCl i nieco głębsze oraz znacznie szersze odpowiadające stanowi zdysocjowanemu. Minima rozdziela bariera potenjalna o wysokości kilku kT.
 Powyżej ok. 6 nm wartości energii swobodnej gwałtownie rosną, nie jest to jednak efekt fizyczny, a jedynie ograniczenie symulacji - w celu ograniczenia przestrzeni próbkowania potencjał modyfikowany jest o człon o kształcie dodatniej gałęzi paraboli:
 
 ![V_w](https://latex.codecogs.com/svg.image?V_w(d)=\kappa(d-0.6)^2,\qquad&space;d>0,)
