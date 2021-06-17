@@ -1,9 +1,10 @@
 # 0800-fizobl-metadynamics
 Drugi projekt z Fizyki Obliczeniowej
 
-Celem projektu było wykonanie symulacji zachowania pojedynczej molekuły NaCl w wodnym roztworze i jej analiza metodami metadynamiki przy użyciu probramów LAMMPS oraz PLUMED.
+Celem projektu było wykonanie symulacji zachowania pojedynczej molekuły NaCl w wodnym roztworze i jej analiza metodami metadynamiki przy użyciu probramów LAMMPS oraz PLUMED. Pliki użyte w do symulacji znajdują się w repozytorium
+![project-2](https://github.com/jakryd/0800-fizobl/tree/main/project-2/irtg-school-mainz-2020-metad).
 
-Symulacja trwała 10 ns. Wykorzystano w niej potencjał obciążający postaci
+Symulacja odbywała się w temperaturze 300 K i trwała 10 ns. Wykorzystano w niej potencjał obciążający postaci
 
 ![V](https://latex.codecogs.com/svg.image?V(d)=-\left(1-\frac{1}{\gamma}\right)F(d),)
 
