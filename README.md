@@ -19,7 +19,7 @@ Wygenerowane w symulacji powierzchnie energii swobodnej w kolejnych momentach tr
 gdzie krzywe przesunięto tak, by minimum energii swobodnej miało wartość 0. Jak widać, pod koniec symulacji krzywe są coraz bliżej siebie, co świadczy o jej zbieżności. Z wykresu można odczytać dwa lokalne minima energii swobodnej - płytsze dla odległości ok. 0.26 nm odpowiadające stanowi związanemu NaCl i nieco głębsze oraz znacznie szersze odpowiadające stanowi zdysocjowanemu. Minima rozdziela bariera potencjalna o wysokości około 4 kT.
 Powyżej ok. 6 nm wartości energii swobodnej gwałtownie rosną, nie jest to jednak efekt fizyczny, a jedynie ograniczenie symulacji - w celu ograniczenia przestrzeni próbkowania potencjał modyfikowany jest o człon o kształcie dodatniej gałęzi paraboli:
 
-![V_w](https://latex.codecogs.com/svg.image?V_w(d)=\kappa(d-0.6)^2,\qquad&space;d>0,)
+![V_w](https://latex.codecogs.com/svg.image?V_w(d)=\kappa(d-0.6)^2,\qquad&space;d>0.6,)
 
 Aby pozbyć się tego efektu zastosowano tzw. *reweighting*, czyli zmodyfikowano uzyskany profil energii swobodnej wagami postaci
 
