@@ -28,4 +28,4 @@ Aby pozbyć się tego efektu zastosowano tzw. *reweighting*, czyli zmodyfikowano
 Porównanie otrzymanej krzywej energii swobodnej z tą otrzymaną na koniec symulacji przed ważeniem przedstawia wykres 2:
 ![comparison.png](https://raw.githubusercontent.com/adamzny/0800-fizobl-metadynamics/main/comparison.png)
 
-Zastosowana metoda skuteczne usunęła niefizyczną barierę jddnocześnie zachowując kształt pozostałej części profilu energii swobodnej.
+Zastosowana metoda skuteczne usunęła niefizyczną barierę jednocześnie zachowując kształt pozostałej części profilu energii swobodnej.
