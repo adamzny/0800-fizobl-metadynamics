@@ -9,7 +9,9 @@ Symulacja trwała 10 ns. Wykorzystano w niej potencjał obciążający postaci
 
 co prowadzi do efektywnej energii swobodnej
 
-![F](https://latex.codecogs.com/svg.image?F(d)/\gamma.)
+![F](https://latex.codecogs.com/svg.image?F(d)/\gamma,)
+
+a więc bariery energii swobodnej obniżone są o czynnik ![gamma](https://latex.codecogs.com/svg.image?\gamma), który dobrano tak, aby były one rzędu kilku kT.
 
 Wygenerowane w symulacji powierzchnie energii swobodnej w kolejnych momentach trwania symulacji przedstawiono na wykresie 1:
 ![free_energy_metadynamics.png](https://raw.githubusercontent.com/adamzny/0800-fizobl-metadynamics/main/free_energy_metadynamics.png)
